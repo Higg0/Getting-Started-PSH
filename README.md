@@ -1,2 +1,4 @@
 # Getting-Started-PSH
-GitHub assignment for Darden - Software Dev class
+This is a GitHub assignment for a Software Dev class at Darden
+
+I created a repository!
